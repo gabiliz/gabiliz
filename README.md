@@ -3,7 +3,7 @@
 <!--
 **gabiliz/gabiliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabiliz&theme=dark&show_icons=true%22/%3E</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabiliz&show_icons=true" alt="gabiliz" /></p>
 
 Here are some ideas to get you started:
 
