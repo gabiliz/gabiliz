@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Gabriela. I am a Front-end Developer.
+- I'm Gabriela. I am a Full stack Developer.
 - I'm currently pursuing my bachelor's degree majoring in software engineering! :computer:
 - Find out more about me & feel free to connect with me here:
 
