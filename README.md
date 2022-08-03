@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm Gabriela. I am a Full stack Developer.
-- I'm currently pursuing my bachelor's degree majoring in software engineering! :computer:
+- I'm currently pursuing my bachelor's degree in software engineering! :computer:
 - Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/gabriela-liz-moreira/)](https://www.linkedin.com/in/gabriela-liz-moreira/)
