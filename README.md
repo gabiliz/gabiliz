@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-- I'm Gabriela. I am a Full stack Developer.
-- I'm currently pursuing my bachelor's degree in software engineering! :computer:
-- Find out more about me & feel free to connect with me here:
+* 🌎 I'm Gabriela. I am a Full stack Developer from Brazil
+* 📚 I'm currently pursuing my bachelor's degree in software engineering!
+* 🖥️  See my portfolio at [gabiliz.dev](http://gabiliz.dev)
+* 🌱  I'm learning Node.js
+* 🤝  I'm open to collaborating on Open Source projects :)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/gabriela-liz-moreira/)](https://www.linkedin.com/in/gabriela-liz-moreira/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:gabrielalizmoreira@gmail.com)](mailto:gabrielalizmoreira@gmail.com)
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/gabriela-liz-moreira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <div style="display: inline_block;" align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabiliz&show_icons=true&theme=material-palenight&count_private=true" style="vertical-align: top;" />
