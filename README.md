@@ -1,8 +1,11 @@
 ### Hi there 👋
+![Video GgNzrcda8AE0](https://github.com/user-attachments/assets/5ec8f569-de12-466c-a45b-9763209c3a4d)
+GIF made by [Kathy](https://x.com/Kathychowww)
 
-* 🌎 I'm Gabriela. I am a Frontend Developer from Brazil
-* 📚 I'm currently pursuing my bachelor's degree in software engineering!
+* 🌎 I'm Gabriela Liz, a Frontend Developer based in Brazil
+* 📚 I'm currently pursuing a postgraduate degree!
 * 🖥️  See my portfolio at [gabiliz.dev](http://gabiliz.dev)
+* 💾  My study projects are all organized here: [gabiliz study projects](https://github.com/gabiliz-study-projects)
 * 🌱  I'm learning Node.js
 * 🤝  I'm open to collaborating on Open Source projects :)
 
