@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Video GgNzrcda8AE0](https://github.com/user-attachments/assets/5ec8f569-de12-466c-a45b-9763209c3a4d)
-GIF made by [Kathy](https://x.com/Kathychowww)
+###### GIF made by [Kathy](https://x.com/Kathychowww)
 
 * 🌎 I'm Gabriela Liz, a Frontend Developer based in Brazil
 * 📚 I'm currently pursuing a postgraduate degree!
